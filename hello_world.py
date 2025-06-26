@@ -12,3 +12,5 @@ def mean(input):
 # test
 my_list = [0, 1, 2, 3, 4, 5]
 print(mean(my_list))
+
+# testing the branch stuff
