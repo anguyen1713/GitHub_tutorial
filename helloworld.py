@@ -4,8 +4,8 @@ print("Hello World! The weather sucks.")
 def mean(input):
   tot = 0
   for entry in input:
-    sum += entry
-  return sum / len(input)
+    tot += entry
+  return tot / len(input)
 
 # test mean func
 my_list = [0, 1, 2, 3, 4, 5]
